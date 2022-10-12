@@ -1,0 +1,4 @@
+# Dependencies Ignored
+box.exe
+.vscode
+.env
